@@ -1,0 +1,20 @@
+,support,itemsets
+0,0.16139907290349767,frozenset({'Action'})
+1,0.10471976401179942,frozenset({'Adventure'})
+2,0.10303413400758533,frozenset({'Biography'})
+3,0.2827644332069111,frozenset({'Comedy'})
+4,0.10745891276864729,frozenset({'Crime'})
+5,0.20375052675937633,frozenset({'Documentary'})
+6,0.5090602612726507,frozenset({'Drama'})
+7,0.0539401601348504,frozenset({'History'})
+8,0.0653181626632954,frozenset({'Horror'})
+9,0.05120101137800253,frozenset({'Mystery'})
+10,0.13253265908133166,frozenset({'Romance'})
+11,0.1125158027812895,frozenset({'Thriller'})
+12,0.05351875263379688,"frozenset({'Adventure', 'Action'})"
+13,0.052886641382216604,"frozenset({'Drama', 'Action'})"
+14,0.05773282764433207,"frozenset({'Drama', 'Biography'})"
+15,0.12262958280657396,"frozenset({'Drama', 'Comedy'})"
+16,0.06468605141171513,"frozenset({'Romance', 'Comedy'})"
+17,0.05941845764854614,"frozenset({'Crime', 'Drama'})"
+18,0.09565950273914876,"frozenset({'Romance', 'Drama'})"

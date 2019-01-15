@@ -1,0 +1,12 @@
+,support,itemsets
+0,0.16139907290349767,frozenset({'Action'})
+1,0.10471976401179942,frozenset({'Adventure'})
+2,0.10303413400758533,frozenset({'Biography'})
+3,0.2827644332069111,frozenset({'Comedy'})
+4,0.10745891276864729,frozenset({'Crime'})
+5,0.20375052675937633,frozenset({'Documentary'})
+6,0.5090602612726507,frozenset({'Drama'})
+7,0.13253265908133166,frozenset({'Romance'})
+8,0.1125158027812895,frozenset({'Thriller'})
+9,0.12262958280657396,"frozenset({'Drama', 'Comedy'})"
+10,0.09565950273914876,"frozenset({'Romance', 'Drama'})"

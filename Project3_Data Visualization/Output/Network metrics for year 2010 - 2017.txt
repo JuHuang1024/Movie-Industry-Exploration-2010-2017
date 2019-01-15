@@ -1,0 +1,1495 @@
+
+
+
+Network Metrics for year 2010
+
+Film                   Btwns Cntr    Degree    Clstr Coef.
+-------------------  ------------  --------  -------------
+1                               0         0              0
+sony                            0         3              1
+fox                             0         0              2
+ifc                             0         0              3
+warner                          0         2              4
+lionsgate                       0         0              5
+magnolia                        0         0              6
+universal                       0         2              7
+paramount                       0         2              8
+first run                       0         0              9
+strand                          0         0             10
+disney                          0         0             11
+utv                             0         0             12
+lorbers                         0         0             13
+eros                            0         0             14
+regent                          0         1             15
+roadside attraction             0         0             16
+music boxs                      0         0             17
+weinstein                       0         1             18
+cinema purgatorio               0         0             19
+focus                           0         0             20
+oscilloscope                    0         0             21
+independent                     0         0             22
+samuel goldwyns                 0         2             23
+cinema guild                    0         0             24
+kino                            0         0             25
+columbia                        0         1              1
+indican                         0         0             26
+freestyle                       0         0             27
+heres                           0         1             15
+film movement                   0         0             28
+variance                        0         0             29
+rogue                           0         1              7
+screen                          0         0             30
+zeitgeists                      0         0             31
+paladin                         0         0             32
+anchor bay                      0         0             33
+touchstone                      0         1             34
+overtures                       0         0             35
+phase 4s                        0         0             36
+balcony                         0         0             37
+reliance                        0         0             38
+cbss                            0         0             39
+image                           0         0             40
+national geographic             0         0             41
+olives                          0         0             42
+anchor bays                     0         0             43
+hannover house                  0         0             44
+argot                           0         0             45
+miramax                         0         1             34
+gkids                           0         0             46
+dreamworks                      0         1              8
+pbs                             0         0             47
+grassrootss                     0         0             48
+mgm                             0         0             49
+cinedigm                        0         0             50
+phase 4                         0         0             51
+yash rajs                       0         0             52
+rocky mountain                  0         0             53
+republic                        0         0             54
+seventh art                     0         0             55
+10 west                         0         0             56
+bigs                            0         0             57
+gener8xion                      0         0             58
+china                           0         0             59
+ripple effects                  0         0             60
+gravitas                        0         0             61
+copacetic                       0         0             62
+newmarkets                      0         0             63
+rockstone                       0         0             64
+freestlye                       0         0             65
+delaware                        0         0             66
+naedomi                         0         0             67
+mitropouloss                    0         0             68
+ato                             0         0             69
+ocscilloscope                   0         0             70
+syfy                            0         0             71
+abarorama                       0         0             72
+thelaborative                   0         0             73
+arthouses                       0         0             74
+dimensions                      0         1             18
+embrem                          0         0             75
+area23a                         0         0             76
+idp                             0         1             23
+arthouse                        0         0             77
+3d ltd                          0         0             78
+spyglass                        0         1              7
+cinema libre                    0         0             79
+flashlight                      0         0             80
+vitagraph                       0         0             81
+vivendi                         0         0             82
+cfi                             0         0             83
+benaroya                        0         0             84
+nocturnal                       0         0             85
+morning star                    0         0             86
+well go                         0         0             87
+inimitable                      0         0             88
+apparition                      0         0             89
+walking shadows                 0         0             90
+zipporahs                       0         0             91
+alliance                        0         0             92
+mpi                             0         0             93
+drafthouses                     0         0             94
+red flag                        0         0             95
+taewon                          0         0             96
+rhino                           0         0             97
+dadas                           0         1             98
+wishbones                       0         0             99
+bluelar                         0         0            100
+news                            0         0            101
+408s                            0         0            102
+new generations                 0         0            103
+mac                             0         0            104
+indievest                       0         0            105
+e1                              0         0            106
+first look                      0         0            107
+artist view                     0         0            108
+eleven arts                     0         0            109
+new yorkers                     0         0            110
+curious                         0         0            111
+parallel                        0         0            112
+visio                           0         0            113
+littlepany                      0         1             98
+first independent               0         0            114
+independents                    0         0            115
+paramount vantage               0         0            116
+mangusta                        0         0            117
+destinations                    0         1             23
+worldplay                       0         0            118
+mtvs                            0         1              8
+new video                       0         0            119
+videa c d e                     0         0            120
+monterey                        0         0            121
+
+
+Network Metrics for year 2011
+
+Film                        Btwns Cntr    Degree    Clstr Coef.
+------------------------  ------------  --------  -------------
+sony                                 0         3              0
+1                                    0         0              1
+ifc                                  0         0              2
+fox                                  0         0              3
+warner                               0         1              4
+independent                          0         0              5
+paramount                            0         1              6
+universal                            0         0              7
+magnolia                             0         0              8
+lionsgate                            0         0              9
+eros                                 0         0             10
+weinstein                            0         1             11
+roadside attraction                  0         0             12
+first run                            0         0             13
+variance                             0         1             14
+disney                               0         1             15
+samuel goldwyns                      0         1             16
+lorbers                              0         0             17
+music boxs                           0         0             18
+strand                               0         0             19
+utv                                  0         0             20
+film movement                        0         0             21
+freestyle                            0         0             22
+relativity                           0         0             23
+focus                                0         0             24
+national geographic                  0         0             25
+international circuit                0         0             26
+anchor bay                           0         0             27
+zeitgeists                           0         0             28
+reliance                             0         0             29
+screen                               0         0             30
+dreamworks                           0         1              6
+magnet                               0         0             31
+oscilloscope                         0         0             32
+monterey                             0         0             33
+cinema guild                         0         0             34
+china lions                          0         0             35
+phase 4s                             0         0             36
+filmdistrict                         0         1             37
+rocky mountain                       0         0             38
+image                                0         0             39
+hannover house                       0         0             40
+anchor bays                          0         0             41
+kino lorber                          0         0             42
+millennium                           0         0             43
+idp                                  0         2             16
+dadas                                0         0             44
+olives                               0         0             45
+lorber                               0         0             46
+paladin                              0         0             47
+screens                              0         0             48
+china lion                           0         0             49
+cbss                                 0         0             50
+balcony                              0         0             51
+cohen                                0         0             52
+truly indie                          0         0             53
+cinema libre                         0         0             54
+abramorama                           0         0             55
+area23a                              0         0             56
+pantelions                           0         0             57
+eleven arts                          0         0             58
+argot                                0         0             59
+vitagraphs                           0         0             60
+imax                                 0         1              4
+columbia                             0         1              0
+icaruss                              0         0             61
+paladins                             0         0             62
+visigoth                             0         1             63
+rialto                               0         0             64
+odeon                                0         0             65
+radical                              0         0             66
+insurgent                            0         0             67
+senator                              0         0             68
+docuramas                            0         0             69
+dimension                            0         1             11
+well go                              0         1             14
+ato                                  0         1             16
+moving                               0         0             70
+corinths                             0         0             71
+codeblack                            0         0             72
+cj                                   0         0             73
+desk                                 0         0             74
+submarine                            0         0             75
+ovalemacher                          0         0             76
+newmarkets llc                       0         0             77
+emerging                             0         0             78
+new yorker                           0         0             79
+miramax                              0         0             80
+midnight                             0         0             81
+long shot factory                    0         0             82
+103 pics                             0         0             83
+in family llc                        0         0             84
+kristin marie                        0         0             85
+filmdemic                            0         0             86
+cinema                               0         0             87
+gkids                                0         0             88
+yash rajs                            0         0             89
+newmarkets                           0         0             90
+tribeca                              0         0             91
+oscilloscope labs                    0         0             92
+tristar                              0         1             37
+film district                        0         0             93
+new video                            0         0             94
+seven artss                          0         0             95
+pmk bnc                              0         0             96
+montfort producciones                0         0             97
+astrea                               0         0             98
+sonyumbia                            0         0             99
+midwests                             0         0            100
+dosazoness                           0         0            101
+tostie                               0         0            102
+district                             0         0            103
+open roads                           0         0            104
+neoclassicss                         0         0            105
+januss                               0         0            106
+disneynature                         0         0            107
+arc                                  0         0            108
+fourth horizon                       0         0            109
+independents                         0         0            110
+catagory ones                        0         0            111
+distracted house lights              0         0            112
+monica beach enterprises             0         0            113
+kino                                 0         0            114
+maya                                 0         0            115
+pixar                                0         1             15
+affrm                                0         1             63
+entertainment one                    0         0            116
+steamboat rock                       0         0            117
+cinedigm                             0         0            118
+indican                              0         0            119
+smodcast                             0         0            120
+extra butter                         0         0            121
+gravitas                             0         0            122
+gold lion china                      0         0            123
+cinema purgatorio                    0         0            124
+cavu                                 0         0            125
+bigfoot ascendant                    0         0            126
+
+
+Network Metrics for year 2012
+
+Film                            Btwns Cntr    Degree    Clstr Coef.
+----------------------------  ------------  --------  -------------
+1                                        0         0              0
+ifc                                      0         1              1
+sony                                     0         1              2
+magnolia                                 0         0              3
+fox                                      0         0              4
+lionsgate                                0         3              5
+warner                                   0         0              6
+first run                                0         0              7
+eros                                     0         0              8
+weinstein                                0         0              9
+universal                                0         0             10
+utv                                      0         0             11
+strand                                   0         0             12
+independent                              0         0             13
+paramount                                0         1             14
+samuel goldwyns                          0         1             15
+tribeca                                  0         0             16
+roadside attraction                      0         1             17
+variance                                 0         2             18
+rocky mountain                           0         0             19
+oscilloscope                             0         0             20
+focus                                    0         0             21
+well go                                  0         1             18
+kino lorbers                             0         0             22
+millennium                               0         0             23
+china lion                               0         0             24
+monterey                                 0         0             25
+film movement                            0         0             26
+music boxs                               0         0             27
+disney                                   0         0             28
+indican                                  0         0             29
+cinema guild                             0         0             30
+zeitgeists                               0         0             31
+international circuit                    0         0             32
+entertainment one                        0         0             33
+relativity                               0         0             34
+midnight                                 0         0             35
+drafthouses                              0         0             36
+cinedigm                                 0         0             37
+open roads                               0         0             38
+ato                                      0         1             15
+china lions                              0         0             39
+kino lorber                              0         0             40
+abramorama                               0         0             41
+arc                                      0         0             42
+cbss                                     0         0             43
+columbia                                 0         1              2
+pantelions                               0         1              5
+wrekin hill                              0         0             44
+sundance selects                         0         1              1
+paladins                                 0         0             45
+dreamworks                               0         1             14
+cohen                                    0         0             46
+adopts                                   0         0             47
+yash rajs                                0         0             48
+freestyle                                0         0             49
+gkids                                    0         0             50
+film district                            0         0             51
+anchor bay                               0         0             52
+dadas                                    0         0             53
+area23a                                  0         0             54
+affrm                                    0         0             55
+idp                                      0         2             15
+argot                                    0         0             56
+area 23a                                 0         0             57
+outsider                                 0         0             58
+indomina                                 0         0             59
+filmdistrict                             0         0             60
+vitagraphs                               0         0             61
+cj                                       0         0             62
+ld                                       0         0             63
+cinema libre                             0         0             64
+mgm                                      0         0             65
+image                                    0         0             66
+screenvision                             0         0             67
+aniplex                                  0         0             68
+3d                                       0         0             69
+dramatic forces                          0         0             70
+truly indie                              0         0             71
+radius                                   0         0             72
+corinths                                 0         0             73
+codeblack                                0         0             74
+hbos                                     0         0             75
+barbossa                                 0         1             17
+big balloon adventure movies             0         0             76
+fip                                      0         0             77
+datari turner                            0         0             78
+rocky mtn                                0         0             79
+long shot factory                        0         0             80
+icarus                                   0         0             81
+after darks                              0         0             82
+arcade                                   0         0             83
+dutchmans                                0         0             84
+transparentworks                         0         0             85
+magnet                                   0         0             86
+go digital                               0         0             87
+afterlight                               0         0             88
+pmk bncs                                 0         0             89
+screen                                   0         0             90
+indepedent                               0         0             91
+dharma                                   0         0             92
+pmk bnc                                  0         0             93
+screens                                  0         0             94
+lokis                                    0         0             95
+pillens farm                             0         0             96
+wolfe                                    0         0             97
+national geographic                      0         0             98
+unstoppable                              0         0             99
+disneynature                             0         0            100
+imax                                     0         0            101
+prophets son llc                         0         0            102
+indominas                                0         0            103
+prophet s son llc                        0         0            104
+filmbuff                                 0         0            105
+producers agency                         0         0            106
+7a                                       0         1             18
+icaruss                                  0         0            107
+reliance                                 0         0            108
+studio canal                             0         0            109
+g b kas                                  0         0            110
+brainstorm                               0         0            111
+s2bns                                    0         0            112
+e1                                       0         0            113
+metro goldwyn mayer                      0         0            114
+anchor bays                              0         0            115
+eleven arts                              0         0            116
+paramount vantage                        0         0            117
+new yorkers                              0         0            118
+artaffects                               0         0            119
+mpi                                      0         0            120
+abrorama                                 0         0            121
+millenniums                              0         0            122
+centre of national                       0         0            123
+independents                             0         0            124
+strategics                               0         0            125
+
+
+Network Metrics for year 2013
+
+Film                                   Btwns Cntr    Degree    Clstr Coef.
+-----------------------------------  ------------  --------  -------------
+1                                               0         0              0
+ifc                                             0         0              1
+magnolia                                        0         0              2
+sony                                            0         0              3
+lionsgate                                       0         4              4
+warner                                          0         0              5
+fox                                             0         0              6
+first run                                       0         0              7
+weinstein                                       0         0              8
+universal                                       0         0              9
+eros                                            0         0             10
+tribeca                                         0         0             11
+cinedigm                                        0         1             12
+disney                                          0         0             13
+variance                                        0         0             14
+millennium                                      0         0             15
+independent                                     0         1             16
+kino lorber                                     0         0             17
+utv                                             0         0             18
+well go                                         0         0             19
+relativity                                      0         0             20
+anchor bays                                     0         0             21
+roadside attraction                             0         1              4
+cohen                                           0         0             22
+radius                                          0         0             23
+strand                                          0         0             24
+oscilloscope                                    0         0             25
+paramount                                       0         0             26
+anchor bay                                      0         0             27
+music boxs                                      0         0             28
+freestyle                                       0         0             29
+film movement                                   0         0             30
+cbss                                            0         0             31
+entertainment one                               0         0             32
+zeitgeists                                      0         0             33
+open roads                                      0         0             34
+focus                                           0         0             35
+monterey                                        0         0             36
+filmdistrict                                    0         0             37
+samuel goldwyns                                 0         1             38
+abramorama                                      0         0             39
+cinema guild                                    0         0             40
+reliance                                        0         0             41
+china lion                                      0         0             42
+arcade                                          0         0             43
+international circuit                           0         0             44
+image                                           0         1             45
+cj                                              0         0             46
+paladins                                        0         0             47
+high top                                        0         0             48
+drafthouses                                     0         0             49
+kino lorbers                                    0         0             50
+idp                                             0         2             38
+a24                                             0         0             51
+ketchup                                         0         0             52
+rlj                                             0         1             45
+wolfe                                           0         0             53
+exclusive                                       0         0             54
+screen                                          0         0             55
+adopts                                          0         0             56
+filmbuff                                        0         0             57
+tristar                                         0         0             58
+area 23a                                        0         0             59
+eones                                           0         0             60
+argot                                           0         0             61
+paladin                                         0         0             62
+distribs                                        0         0             63
+dadas                                           0         0             64
+rialtos                                         0         0             65
+china lions                                     0         0             66
+gravitas                                        0         0             67
+archstone                                       0         0             68
+aaffrm                                          0         0             69
+submarine                                       0         0             70
+dead patriots                                   0         0             71
+arenas                                          0         0             72
+house lights                                    0         0             73
+miasmas                                         0         0             74
+asl                                             0         0             75
+echolight                                       0         0             76
+river rains                                     0         0             77
+rada                                            0         0             78
+doppelg nger                                    0         0             79
+rocky mountain                                  0         0             80
+entertianment ones                              0         0             81
+bonfires                                        0         0             82
+film worksho                                    0         0             83
+magnet                                          0         0             84
+emerging                                        0         0             85
+codeblacks                                      0         1              4
+area23                                          0         0             86
+gathrs                                          0         0             87
+doppelganger                                    0         0             88
+gkids                                           0         0             89
+yash rajs                                       0         0             90
+starz                                           0         0             91
+ato                                             0         1             38
+liberty streets                                 0         0             92
+sundance selects                                0         0             93
+s                                               0         0             94
+striped                                         0         0             95
+hightop                                         0         0             96
+metrodome dist                                  0         1             16
+thelective                                      0         0             97
+area 51                                         0         0             98
+pathlight                                       0         0             99
+future educationals                             0         0            100
+rcr                                             0         0            101
+meneret                                         0         0            102
+passion rivers                                  0         0            103
+hbo documentary                                 0         0            104
+tommy foundation                                0         0            105
+gogogo                                          0         0            106
+gabriel s messengers                            0         0            107
+januss                                          0         0            108
+mehboob                                         0         0            109
+tio papi movie                                  0         0            110
+arc                                             0         0            111
+vladerpany                                      0         0            112
+picturehouses                                   0         0            113
+zipporah                                        0         0            114
+autlooksales gmbh                               0         0            115
+ghost                                           0         0            116
+nocoast artists                                 0         0            117
+breaking glass                                  0         0            118
+oprah winfrey network                           0         0            119
+cinema purgatorio                               0         0            120
+acne ab                                         0         0            121
+hammond                                         0         0            122
+purdie                                          0         0            123
+vitagraphs                                      0         0            124
+cold spring                                     0         0            125
+participant                                     0         0            126
+dreamworks                                      0         0            127
+docurama                                        0         1             12
+single shot                                     0         0            128
+steelyard                                       0         0            129
+open road                                       0         0            130
+active fox                                      0         0            131
+black chalk                                     0         0            132
+leisure time                                    0         0            133
+cinema libre                                    0         0            134
+xlrator                                         0         0            135
+swan design                                     0         0            136
+affidavit llc                                   0         0            137
+brainstorm                                      0         0            138
+imax                                            0         0            139
+rockstone                                       0         0            140
+indican                                         0         0            141
+excel                                           0         0            142
+eleven arts                                     0         0            143
+under milky way                                 0         0            144
+one earth                                       0         0            145
+centro nacional aut nomo detograf a             0         0            146
+vertical                                        0         0            147
+paragraph                                       0         0            148
+indomina                                        0         0            149
+pan                                             0         0            150
+vitagraph                                       0         0            151
+national geographic                             0         0            152
+area 23as                                       0         0            153
+drafthouse recommends                           0         0            154
+wamcr                                           0         0            155
+freestyle digital                               0         0            156
+beckman unicorn                                 0         0            157
+
+
+Network Metrics for year 2014
+
+Film                       Btwns Cntr    Degree    Clstr Coef.
+-----------------------  ------------  --------  -------------
+ifc                                 0         0              0
+sony                                0         2              1
+fox                                 0         0              2
+1                                   0         0              3
+warner                              0         0              4
+magnolia                            0         1              5
+lionsgate                           0         3              6
+universal                           0         0              7
+disney                              0         0              8
+weinstein                           0         0              9
+music boxs                          0         0             10
+paramount                           0         0             11
+first run                           0         0             12
+strand                              0         0             13
+focus                               0         1             14
+well go                             0         0             15
+radius                              0         0             16
+monterey                            0         0             17
+freestyle                           0         1             18
+roadside attraction                 0         1              6
+a24                                 0         1             19
+utv                                 0         0             20
+cohen                               0         0             21
+film movement                       0         0             22
+tribeca                             0         0             23
+drafthouses                         0         0             24
+relativity                          0         0             25
+open roads                          0         0             26
+variance                            0         0             27
+kino lorber                         0         0             28
+eros                                0         0             29
+samuel goldwyns                     0         1             30
+china lion                          0         0             31
+kino lorbers                        0         0             32
+abramorama                          0         0             33
+cinema guild                        0         0             34
+millennium                          0         0             35
+zeitgeists                          0         0             36
+eleven arts                         0         0             37
+oscilloscope                        0         0             38
+magnet                              0         1              5
+cj                                  0         0             39
+rocky mountain                      0         0             40
+entertainment one                   0         0             41
+clarius                             0         0             42
+starz digital                       0         0             43
+indican                             0         0             44
+gkids                               0         0             45
+reliance                            0         0             46
+amplify                             0         0             47
+icaruss                             0         0             48
+argot                               0         0             49
+idp                                 0         1             30
+ketchup                             0         0             50
+bond360                             0         0             51
+cinema purgatorio                   0         0             52
+cinedigm digital                    0         0             53
+entertainment ones                  0         0             54
+cbss                                0         0             55
+international circuit               0         0             56
+distribs                            0         0             57
+china lions                         0         0             58
+submarine                           0         0             59
+cinedigm                            0         0             60
+thelaborative                       0         0             61
+shout factory                       0         0             62
+rialtos                             0         0             63
+dadas                               0         0             64
+picturehouses                       0         0             65
+directv                             0         1             19
+gravitas                            0         0             66
+hbos                                0         0             67
+idyllic                             0         0             68
+babas                               0         0             69
+momentum                            0         0             70
+baseball dreams                     0         0             71
+purdie                              0         0             72
+vladarpany                          0         0             73
+e one                               0         0             74
+mtuckman tuggs                      0         0             75
+quadratic                           0         0             76
+pbss                                0         1             77
+orchard                             0         0             78
+long shot factory                   0         0             79
+phase 4s                            0         0             80
+participant                         0         1             81
+giant flick                         0         0             82
+ocean avenue                        0         0             83
+screenvision                        0         0             84
+oscilloscope pitures                0         0             85
+ten furlongs                        0         0             86
+moving                              0         0             87
+american experience                 0         1             77
+sundance selects                    0         0             88
+apo                                 0         0             89
+roadside atrractions                0         0             90
+anchor bays                         0         0             91
+outsider                            0         0             92
+goodfaces                           0         0             93
+brothers ink                        0         0             94
+eone                                0         0             95
+revolver                            0         0             96
+vivendi                             0         0             97
+gone                                0         1             98
+richmond                            0         0             99
+american express                    0         0            100
+rlj                                 0         0            101
+shoot first inc                     0         0            102
+tristar                             0         0            103
+little scraps of papers             0         0            104
+filmrise                            0         0            105
+liberty                             0         0            106
+kartemquins                         0         0            107
+samuel goldwyn                      0         0            108
+baxter                              0         0            109
+trinitys                            0         0            110
+hammond                             0         0            111
+truman scotts                       0         0            112
+ram                                 0         0            113
+alamo drafthouses                   0         0            114
+under milky way                     0         0            115
+words                               0         0            116
+vitagrraphs                         0         0            117
+rialto                              0         0            118
+walking on waters                   0         0            119
+aubin                               0         0            120
+anchor bay                          0         1             18
+vices                               0         0            121
+big                                 0         0            122
+filmbuff                            0         1             81
+sideshow                            0         0            123
+filmdisctrict                       0         0            124
+mvd                                 0         0            125
+abkcos                              0         0            126
+anderson digital                    0         0            127
+xlrator                             0         0            128
+stage 6                             0         0            129
+saboteur                            0         0            130
+vertical                            0         0            131
+sen arts                            0         0            132
+vanished                            0         1             98
+dreamworks                          0         0            133
+brainstorm                          0         0            134
+beardlins shores                    0         0            135
+pchs                                0         0            136
+jungle book                         0         0            137
+zipporah                            0         0            138
+vitagraphs                          0         0            139
+kimstim                             0         0            140
+vagrants                            0         0            141
+breaking glass                      0         0            142
+hannover house                      0         0            143
+pantelions                          0         0            144
+wolfe                               0         0            145
+eleven artss                        0         0            146
+screen                              0         1             14
+pmk bnc                             0         0            147
+pure flix                           0         0            148
+first pond                          0         0            149
+
+
+Network Metrics for year 2015
+
+Film                               Btwns Cntr    Degree    Clstr Coef.
+-------------------------------  ------------  --------  -------------
+1                                           0         0              0
+sony                                        0         0              1
+fox                                         0         0              2
+warner                                      0         0              3
+universal                                   0         0              4
+magnolia                                    0         1              5
+ifc                                         0         0              6
+lionsgate                                   0         0              7
+freestyle                                   0         0              8
+disney                                      0         2              9
+paramount                                   0         1             10
+focus                                       0         0             11
+indican                                     0         0             12
+first run                                   0         0             13
+music boxs                                  0         0             14
+strand                                      0         0             15
+weinstein                                   0         0             16
+a24                                         0         1             17
+eros                                        0         0             18
+orchard                                     0         0             19
+kino lorbers                                0         0             20
+radius                                      0         0             21
+monterey                                    0         0             22
+well go                                     0         0             23
+gravitas                                    0         0             24
+cohen                                       0         0             25
+drafthouses                                 0         0             26
+open roads                                  0         0             27
+kino lorber                                 0         0             28
+samuel goldwyns                             0         0             29
+directv                                     0         1             17
+broad green                                 0         0             30
+cinema guild                                0         0             31
+cj                                          0         0             32
+arcade                                      0         0             33
+funimations                                 0         0             34
+china lion                                  0         0             35
+pantelions                                  0         0             36
+alchemy                                     0         0             37
+film movement                               0         0             38
+icaruss                                     0         0             39
+tribeca                                     0         0             40
+distribs                                    0         0             41
+oscilloscope                                0         0             42
+roadside attraction                         0         0             43
+gkids                                       0         0             44
+purdie                                      0         0             45
+image                                       0         1             46
+utv                                         0         0             47
+vitagraphs                                  0         0             48
+archstone                                   0         0             49
+film arcade                                 0         0             50
+yash rajs                                   0         0             51
+magnet                                      0         1              5
+pure flix                                   0         0             52
+pixar                                       0         1              9
+dreamworks                                  0         0             53
+screens                                     0         0             54
+rlj                                         0         1             46
+filmbuff                                    0         0             55
+bleecker street                             0         0             56
+studiocanal                                 0         0             57
+relativity                                  0         0             58
+cg cin ma                                   0         0             59
+freedom from fistula foundation             0         0             60
+wellgo                                      0         0             61
+mister listers                              0         0             62
+truth aid                                   0         0             63
+marvel                                      0         1              9
+gvn                                         0         0             64
+mantaray ab                                 0         0             65
+klein lewis                                 0         0             66
+colour yellow                               0         0             67
+alchemys                                    0         0             68
+emmett                                      0         1             69
+wildgazes                                   0         0             70
+ciesla foundation                           0         0             71
+vladarpany                                  0         0             72
+aascars                                     0         0             73
+filmlaborative                              0         0             74
+internationakl circuit                      0         0             75
+ncm fathom                                  0         0             76
+backup                                      0         0             77
+argot                                       0         0             78
+red chillies                                0         0             79
+idyllic                                     0         0             80
+element                                     0         0             81
+submarine                                   0         0             82
+dakota                                      0         0             83
+cook box                                    0         0             84
+groundswell                                 0         0             85
+gathrs                                      0         0             86
+m tree                                      0         0             87
+big                                         0         0             88
+occupant                                    0         0             89
+aviron                                      0         0             90
+unstuck                                     0         0             91
+easy open                                   0         0             92
+phantoms                                    0         0             93
+slbs                                        0         0             94
+disarmings                                  0         0             95
+bleecker streets                            0         0             96
+imovision                                   0         0             97
+rhombus                                     0         0             98
+sundance selects                            0         0             99
+neue road movies                            0         0            100
+embargos                                    0         0            101
+filmrise                                    0         0            102
+hanover multimedia                          0         0            103
+starz digital                               0         0            104
+strasson                                    0         0            105
+panorama                                    0         0            106
+entertainment ones                          0         0            107
+amour fou vienna                            0         0            108
+claussen w bke putzproduction               0         0            109
+dark frames                                 0         0            110
+varient                                     0         0            111
+participant                                 0         0            112
+cinelous                                    0         0            113
+film movements                              0         0            114
+americanpany                                0         0            115
+firelights                                  0         0            116
+forks                                       0         0            117
+januss                                      0         0            118
+delirios                                    0         0            119
+arka works                                  0         0            120
+pacific northwest                           0         0            121
+stx                                         0         0            122
+bbcwides                                    0         0            123
+arte                                        0         0            124
+working titles                              0         0            125
+romance                                     0         0            126
+holt hamilton                               0         0            127
+eclectic                                    0         0            128
+komplizen                                   0         0            129
+abramorama                                  0         0            130
+broken road                                 0         0            131
+elevent arts                                0         0            132
+noor                                        0         0            133
+canal streetmunications                     0         0            134
+yong                                        0         0            135
+imagine                                     0         0            136
+centralporation                             0         0            137
+atlaspany                                   0         0            138
+honora                                      0         0            139
+starburns industries                        0         0            140
+life without limits                         0         0            141
+first pond                                  0         0            142
+alters                                      0         0            143
+cinema libre                                0         0            144
+junglee                                     0         0            145
+adopts                                      0         0            146
+furlas                                      0         1             69
+execution style                             0         0            147
+china lions                                 0         0            148
+bloodvine                                   0         0            149
+columbia                                    0         0            150
+netflix                                     0         0            151
+epic                                        0         0            152
+excel                                       0         0            153
+paladin                                     0         0            154
+cohen llc                                   0         0            155
+wg                                          0         0            156
+urbanfoxs                                   0         0            157
+artikulo uno                                0         0            158
+cine mosaic                                 0         0            159
+amplifys                                    0         0            160
+amplify                                     0         0            161
+monument                                    0         0            162
+high top                                    0         0            163
+milky way                                   0         0            164
+relativity europacorp                       0         0            165
+fralitas                                    0         0            166
+momentums                                   0         1             10
+showtime networks                           0         0            167
+in light                                    0         0            168
+riverrain                                   0         0            169
+filmacres                                   0         0            170
+play now enterprise                         0         0            171
+
+
+Network Metrics for year 2016
+
+Film                               Btwns Cntr    Degree    Clstr Coef.
+-------------------------------  ------------  --------  -------------
+1                                           0         0              0
+warner                                      0         0              1
+sony                                        0         0              2
+disney                                      0         1              3
+universal                                   0         0              4
+fox                                         0         0              5
+paramount                                   0         0              6
+lionsgate                                   0         0              7
+focus                                       0         0              8
+a24                                         0         1              9
+sundance selects                            0         0             10
+open roads                                  0         0             11
+directv                                     0         1              9
+relativity                                  0         0             12
+ifc                                         0         0             13
+dreamworks                                  0         0             14
+kino lorber                                 0         0             15
+stx                                         0         0             16
+gravitas                                    0         0             17
+killers                                     0         0             18
+roadside attraction                         0         1             19
+china lion                                  0         0             20
+europacorp                                  0         0             21
+cj                                          0         0             22
+magnolia                                    0         0             23
+weinstein                                   0         0             24
+indican                                     0         0             25
+yash rajs                                   0         0             26
+nycs                                        0         0             27
+likely story                                0         0             28
+motto                                       0         0             29
+first run                                   0         0             30
+bbcs                                        0         0             31
+gkids                                       0         0             32
+utv                                         0         0             33
+film movement                               0         0             34
+dog eat dogs                                0         0             35
+amazon                                      0         0             36
+red crown                                   0         0             37
+linn                                        0         0             38
+labor                                       0         1             39
+drafthouses                                 0         0             40
+studio 71                                   0         0             41
+broad green                                 0         1             19
+parts                                       0         1             39
+miramax                                     0         2             19
+magnet                                      0         0             42
+bona                                        0         0             43
+sbs                                         0         0             44
+marvista                                    0         0             45
+evening star                                0         0             46
+conde nast                                  0         0             47
+appleps                                     0         0             48
+cinegalaxy                                  0         0             49
+new life                                    0         0             50
+vault                                       0         0             51
+rooks                                       0         0             52
+det danskeinstitut                          0         0             53
+five more minutes                           0         0             54
+rhombus                                     0         0             55
+argus produktie                             0         0             56
+meetais                                     0         0             57
+azucars                                     0         0             58
+transition                                  0         0             59
+telewizja polska                            0         0             60
+d sousaporation                             0         0             61
+siegal                                      0         0             62
+eros                                        0         0             63
+dream warrior                               0         0             64
+cohen                                       0         0             65
+smokehouse                                  0         0             66
+ten forwards                                0         0             67
+burn later                                  0         0             68
+gemellis                                    0         0             69
+gettin rad                                  0         0             70
+beacon streets                              0         0             71
+mojo music                                  0         0             72
+filmrise                                    0         0             73
+working title                               0         0             74
+freestyle                                   0         0             75
+gemini                                      0         0             76
+rooster teeth                               0         0             77
+nonetheless                                 0         0             78
+mirror images ltd                           0         0             79
+hickorys                                    0         0             80
+les du tr sor                               0         0             81
+taewon                                      0         0             82
+time to kill                                0         0             83
+cinemaservancy                              0         0             84
+animal kingdom                              0         0             85
+k5                                          0         0             86
+body image movement                         0         0             87
+3311                                        0         0             88
+ben                                         0         1             89
+docler                                      0         0             90
+highwaymans                                 0         0             91
+maya                                        0         0             92
+james patterson                             0         0             93
+space rocket nation                         0         0             94
+big talk                                    0         0             95
+bonapany                                    0         0             96
+little teeth                                0         0             97
+buenaventuras                               0         0             98
+haos                                        0         0             99
+gold circles                                0         0            100
+unbound feet                                0         0            101
+25th frame                                  0         0            102
+illumination                                0         0            103
+broad street                                0         0            104
+rivieras                                    0         0            105
+oscilloscope                                0         0            106
+atlasporation                               0         0            107
+el deseo                                    0         0            108
+pureflix                                    0         0            109
+mint                                        0         0            110
+vitagraphs                                  0         0            111
+21uno                                       0         0            112
+arcade                                      0         0            113
+rajkumar hiranis                            0         0            114
+heartland                                   0         0            115
+tohopany                                    0         0            116
+iris                                        0         0            117
+orchard                                     0         0            118
+film 44                                     0         0            119
+ibidworks                                   0         0            120
+rabbitbandini                               0         0            121
+catalysts                                   0         0            122
+bad robot                                   0         0            123
+id ale audience                             0         0            124
+conspira oes                                0         0            125
+arts labor                                  0         0            126
+cinemaa                                     0         0            127
+last cab holdings                           0         0            128
+screen australia                            0         0            129
+ratpac documentarys                         0         0            130
+borderlines                                 0         0            131
+concannon                                   0         0            132
+letv co                                     0         0            133
+4th dimension                               0         0            134
+little horse crossing river llc             0         0            135
+representational                            0         0            136
+starz                                       0         0            137
+matsons                                     0         0            138
+loveless                                    0         0            139
+aamir khan                                  0         0            140
+check gate                                  0         0            141
+children of                                 0         0            142
+dezenove som e imagem                       0         0            143
+black label                                 0         0            144
+big mouth                                   0         0            145
+sundial                                     0         0            146
+bill                                        0         1             89
+motlys as                                   0         0            147
+wonder vision                               0         0            148
+lgm cin ma                                  0         0            149
+stella mars                                 0         0            150
+a day in lifes                              0         0            151
+historias                                   0         0            152
+best democracy                              0         0            153
+fuegos                                      0         0            154
+riverstone                                  0         0            155
+visible                                     0         0            156
+vertigos                                    0         0            157
+kissiki                                     0         0            158
+broadreamworksy video                       0         0            159
+less du lendemain                           0         0            160
+showbox                                     0         0            161
+red hats                                    0         0            162
+cabin creeks                                0         0            163
+creative breed                              0         0            164
+itacas                                      0         0            165
+vandewater                                  0         0            166
+annapurna                                   0         0            167
+monterey                                    0         0            168
+cbss                                        0         0            169
+pf                                          0         0            170
+pikis                                       0         0            171
+pixar                                       0         1              3
+high top                                    0         0            172
+see saws                                    0         0            173
+zipper                                      0         0            174
+transatlantics                              0         0            175
+dead fishs                                  0         0            176
+will packer                                 0         0            177
+tremolo                                     0         0            178
+lokis                                       0         0            179
+britishpany                                 0         0            180
+film science                                0         0            181
+pieter van huystee and                      0         0            182
+dharma                                      0         0            183
+blue sky                                    0         0            184
+blackbirds                                  0         0            185
+studiocanal                                 0         0            186
+lgm                                         0         0            187
+ombras                                      0         0            188
+firebreathings                              0         0            189
+film at eleven                              0         0            190
+waypoint                                    0         0            191
+gramercy                                    0         0            192
+fid lits                                    0         0            193
+fulwell 73                                  0         0            194
+a e indiefilms                              0         0            195
+am rique                                    0         0            196
+folimage                                    0         0            197
+terregals                                   0         0            198
+mama bear                                   0         0            199
+pure flix                                   0         0            200
+derek jarman lab                            0         0            201
+lambert                                     0         0            202
+ld                                          0         0            203
+low key                                     0         0            204
+ghost house                                 0         0            205
+benetones                                   0         0            206
+novotny novotnyproduction                   0         0            207
+passion                                     0         0            208
+cartuna                                     0         0            209
+duplass                                     0         0            210
+music boxs                                  0         0            211
+answer                                      0         0            212
+sophisticateds                              0         0            213
+paladin                                     0         0            214
+columbia                                    0         0            215
+pennebaker hegeduss                         0         0            216
+filmbuff                                    0         0            217
+arrow                                       0         1            218
+inspired                                    0         0            219
+perdido                                     0         0            220
+ratpac dune                                 0         0            221
+castle rock                                 0         0            222
+constantin production                       0         0            223
+jaya                                        0         0            224
+hidden empire                               0         0            225
+low minds                                   0         0            226
+france 2 cin ma                             0         0            227
+southern lights                             0         0            228
+paradox 3                                   0         0            229
+scott frees                                 0         0            230
+dracos                                      0         0            231
+big beachs                                  0         0            232
+ankle sock baseball pants                   0         0            233
+dear rivers production                      0         0            234
+a r murugadoss                              0         0            235
+yale                                        0         0            236
+go valley                                   0         0            237
+square enixpany                             0         0            238
+keep your head                              0         0            239
+saville                                     0         0            240
+21 laps                                     0         0            241
+street justices                             0         0            242
+mars                                        0         0            243
+less du poisson                             0         0            244
+race points                                 0         0            245
+jigsaw                                      0         0            246
+submarine                                   0         0            247
+blumhouse                                   0         0            248
+la biennale di venezia                      0         0            249
+lakeshore                                   0         0            250
+participant                                 0         0            251
+nadiadreamworksla grandson                  0         0            252
+mainstreet                                  0         0            253
+empire ward                                 0         0            254
+gvn                                         0         0            255
+redpeter                                    0         0            256
+vertov                                      0         0            257
+haarika hassine creations                   0         0            258
+jorva                                       0         0            259
+bling unplugged                             0         0            260
+tandem                                      0         0            261
+alive mind                                  0         0            262
+tre v nner production ab                    0         0            263
+tekno hut                                   0         0            264
+power of 3                                  0         0            265
+german kralproduction                       0         0            266
+amazon broad green                          0         0            267
+electric city                               0         0            268
+rai                                         0         0            269
+buffalos                                    0         0            270
+blackmrkt                                   0         0            271
+robert kenners                              0         0            272
+mouth agape                                 0         0            273
+bns                                         0         0            274
+envision arts                               0         0            275
+la casa de production                       0         0            276
+embargos                                    0         0            277
+beta                                        0         0            278
+xlrator                                     0         0            279
+junglee                                     0         0            280
+deltree production                          0         0            281
+vertigo                                     0         0            282
+china                                       0         0            283
+less du worso                               0         0            284
+arte france cin ma                          0         0            285
+collective eye                              0         0            286
+netflix                                     0         0            287
+edkos                                       0         0            288
+djs                                         0         0            289
+yachaywasis                                 0         0            290
+excel                                       0         0            291
+block                                       0         0            292
+westdeutscher rundfunk                      0         0            293
+unified                                     0         0            294
+beachsides                                  0         0            295
+bdcine                                      0         0            296
+film4                                       0         0            297
+mm2                                         0         0            298
+reconsider                                  0         0            299
+4th rows                                    0         0            300
+quixotic endeavors                          0         0            301
+wigwams                                     0         0            302
+radiates                                    0         0            303
+alfamas production                          0         0            304
+vanishs                                     0         0            305
+low sparks                                  0         0            306
+forks                                       0         0            307
+bow                                         0         1            218
+
+
+Network Metrics for year 2017
+
+Film                          Btwns Cntr    Degree    Clstr Coef.
+--------------------------  ------------  --------  -------------
+1                                  0             0              0
+fox                                0             1              1
+warner                             0             0              2
+sony                               0             1              3
+ifc                                0             1              4
+well go                            0             0              5
+lionsgate                          0.001         5              6
+a24                                0             1              7
+universal                          0             0              8
+paramount                          0             1              9
+amazon                             0.001         4              4
+magnolia                           0             0             10
+disney                             0             1             11
+orchard                            0             0             12
+open roads                         0             0             13
+roadside attraction                0.001         2              4
+bleecker street                    0             3              4
+focus                              0             0             14
+samuel goldwyns                    0             0             15
+abramorama                         0             0             16
+filmrise                           0             0             17
+kino lorber                        0             0             18
+weinstein                          0             0             19
+china lion                         0             0             20
+cohen                              0             0             21
+stxfilms                           0             1             22
+indican                            0             0             23
+neon                               0             0             24
+pure flix                          0             1              9
+broad green                        0             0             25
+columbia                           0             0             26
+oscilloscope                       0             0             27
+parade decks                       0             0             28
+grasshopper                        0             0             29
+music boxs                         0             0             30
+sevenfolds                         0             0             31
+first run                          0             0             32
+entertainment                      0             0             33
+epic                               0             0             34
+europacorp                         0             1             22
+gravitas                           0             0             35
+icaruss                            0             0             36
+cj                                 0             0             37
+pantelions                         0             0             38
+directv                            0             1              7
+bh tilt                            0             1             39
+film movement                      0             0             40
+paladin                            0             0             41
+la romas                           0             0             42
+pbs                                0             0             43
+inner voice                        0             0             44
+participant                        0             2              4
+red chilliess                      0             0             45
+good deed                          0             0             46
+vertical                           0             0             47
+yash rajs                          0             0             48
+apaches                            0             0             49
+stx                                0             0             50
+sundance selects                   0             0             51
+cinema guild                       0             0             52
+gunpowder sky                      0             0             53
+purdie                             0             0             54
+fox star                           0             0             55
+annapurna                          0             0             56
+cbss                               0             1              6
+eyesteelfilm                       0             0             57
+tristar                            0             0             58
+global digital                     0             0             59
+banksides                          0             0             60
+newcity                            0             0             61
+clean slates                       0             0             62
+milkts                             0             0             63
+cold iron                          0             0             64
+novustent                          0             0             65
+barn owl                           0             0             66
+artsploitations                    0             0             67
+bad medicines                      0             0             68
+heymans                            0             0             69
+dark highways                      0             0             70
+superlatives                       0             1             71
+spirals                            0             0             72
+transfiguration prods              0             0             73
+marnis                             0             0             74
+filmmaker r k                      0             0             75
+bmps                               0             0             76
+wliw new york                      0             0             77
+apatow                             0             0             78
+uncork d                           0             0             79
+alibaba                            0             0             80
+eyepop                             0             0             81
+lemle                              0             0             82
+cardinal ltd                       0             0             83
+bull                               0             0             84
+salman khans                       0             0             85
+archstone                          0             0             86
+diligences                         0             0             87
+adamas                             0             0             88
+ave fenix                          0             0             89
+sabans                             0             0             90
+codeblacks                         0             1              6
+shellas                            0             0             91
+patriot                            0             0             92
+gathrs                             0             0             93
+snapshot                           0             0             94
+lucky movies                       0             0             95
+rita                               0             0             96
+gkids                              0             0             97
+future you                         0             0             98
+electric chinoland                 0             0             99
+leomark                            0             0            100
+bond360                            0             0            101
+hurricanes                         0             0            102
+paladins                           0             0            103
+matsons                            0             0            104
+dreamworks                         0             0            105
+fingerprint                        0             1              4
+knightmarcher                      0             0            106
+compass                            0             0            107
+check gate                         0             0            108
+zipporahs                          0             0            109
+mongrel                            0             0            110
+showbox                            0             0            111
+transient                          0             0            112
+ambi                               0             0            113
+maven                              0             0            114
+stxs                               0             0            115
+sarkasmos                          0             0            116
+zero point zeros                   0             0            117
+fathom events                      0             0            118
+arcade                             0             0            119
+bones                              0             1            120
+falling sky                        0             0            121
+cfi                                0             0            122
+blue sky                           0             1              1
+arka works                         0             0            123
+butimar                            0             0            124
+monterey                           0             0            125
+salem street                       0             0            126
+gs                                 0             0            127
+cinelous                           0             0            128
+pixar                              0             1             11
+harbinger                          0             0            129
+dharma                             0             0            130
+metromunications                   0             0            131
+pepper                             0             1            120
+riverrain                          0             0            132
+dune                               0             0            133
+sound vision                       0             0            134
+depth of field                     0             1             71
+affirms                            0             1              3
+atlas                              0             0            135
+affluence movies pvt ltd           0             0            136
+black sheep                        0             0            137
+buena onda srl                     0             0            138
+next                               0             0            139
+amblin                             0             0            140
+full autos                         0             0            141
+bcdf                               0             0            142
+cnsmunications                     0             0            143
+aubin                              0             0            144
+riveting                           0             0            145
+apple orange                       0             0            146
+dadas                              0             0            147
+gravity                            0             0            148
+harlempany                         0             0            149
+hailey dean twos                   0             0            150
+volitions                          0             0            151
+rezolution                         0             0            152
+next gens                          0             0            153
+screens                            0             0            154
+more                               0             0            155
+devil s harvest production         0             0            156
+pimientas                          0             0            157
+marcies                            0             0            158
+earth                              0             0            159
+disneynature                       0             0            160
+disney theatrical                  0             0            161
+helios digital learning            0             1            162
+kartemquins                        0             1            162
+tpspany                            0             0            163
+p artisanproduction gmbh           0             0            164
+menemshas                          0             0            165
+kasperlin production               0             0            166
+utv                                0             0            167
+sneaky sneakys                     0             0            168
+strand                             0             0            169
+ebersole hughespany                0             0            170
+xe creative pool                   0             0            171
+cine1                              0             0            172
+impact partners                    0             0            173
+anguille                           0             0            174
+socdoc                             0             0            175
+katapult                           0             0            176
+blanketfort                        0             0            177
+mangal murtis pvt ltd              0             0            178
+less du losange                    0             0            179
+freestyle                          0             0            180
+electric                           0             0            181
+studio ghibli                      0             0            182
+grasshoppers                       0             0            183
+sumerians                          0             0            184
+a71                                0             0            185
+aviron                             0             0            186
+bravearts                          0             0            187
+pulses                             0             0            188
+skydances                          0             0            189
+wwe                                0             1             39
+chubbco                            0             0            190
+petit                              0             0            191
+star overseas                      0             0            192
+match factory                      0             0            193
+rai                                0             0            194
+nevision one                       0             0            195
+reframed                           0             0            196
+crosss                             0             0            197
+cmc                                0             0            198
+gos                                0             0            199
+woodland park                      0             0            200
+madras talkies                     0             0            201
+dimensions                         0             0            202
+xyzs                               0             0            203
+abstract                           0             0            204
+ideaman                            0             0            205
